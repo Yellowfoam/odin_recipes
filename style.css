@@ -2,11 +2,14 @@ body {
     display: inline-block;
     color: black;
     font-family: 'Italianno', cursive;
+    border: 2px solid red;
+
     
 }
 h1 {
     font-size: 4.5rem;
     font-family: 'Italianno', cursive;
+    border: 2px solid red;
 }
 #recipes {
     text-decoration: none;
@@ -14,6 +17,7 @@ h1 {
     font-size: 2.5rem;
     display: flex;
     padding: 1rem;
+    border: 2px solid red;
     
 }
 p {
@@ -22,4 +26,8 @@ p {
 h2 {
     font-family: : 'Italianno', cursive;
     
+}
+
+ul {
+    border: 2px solid red;
 }

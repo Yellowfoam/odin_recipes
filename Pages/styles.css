@@ -1,0 +1,41 @@
+ul {
+    border: 2px dotted black;;
+    box-sizing: border-box;
+    text-align: justify;
+    font-size: 1.3rem;
+    max-width: 28%;
+    padding: 80px;
+    margin: 20px;   
+
+}
+ol {
+    border: 20px double rgb(255, 255, 255);
+    padding: 80px;
+    margin: 20px;
+    max-width: 20%;
+    font-size: 1.3rem;
+    
+}
+body {
+    border: 2px solid red;
+    padding: 2%;
+    margin: 20px;
+    font-size: 1rem;
+    background-color: rgb(204, 0, 0);
+    font-size: 1.3rem;
+    color: white;           
+    
+}
+#home {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+#fourcheese {
+    background-color: rgb(255, 204, 0);
+}
+#eggplant {
+    background-color: rgb(102, 0, 51);
+}
